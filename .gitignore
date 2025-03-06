@@ -5,3 +5,7 @@
 /.vs
 /Final/obj
 /Starter/obj
+<<<<<<< HEAD
+/Starter/bin/Debug/net6.0
+=======
+>>>>>>> 346a31c5d590d221451281547c6abc05277e1793
